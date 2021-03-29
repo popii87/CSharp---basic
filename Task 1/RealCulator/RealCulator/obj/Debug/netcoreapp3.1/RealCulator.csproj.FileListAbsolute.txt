@@ -1,0 +1,13 @@
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\obj\Debug\netcoreapp3.1\RealCulator.csprojAssemblyReference.cache
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\obj\Debug\netcoreapp3.1\RealCulator.AssemblyInfoInputs.cache
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\obj\Debug\netcoreapp3.1\RealCulator.AssemblyInfo.cs
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\obj\Debug\netcoreapp3.1\RealCulator.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\bin\Debug\netcoreapp3.1\RealCulator.exe
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\bin\Debug\netcoreapp3.1\RealCulator.deps.json
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\bin\Debug\netcoreapp3.1\RealCulator.runtimeconfig.json
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\bin\Debug\netcoreapp3.1\RealCulator.runtimeconfig.dev.json
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\bin\Debug\netcoreapp3.1\RealCulator.dll
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\bin\Debug\netcoreapp3.1\RealCulator.pdb
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\obj\Debug\netcoreapp3.1\RealCulator.dll
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\obj\Debug\netcoreapp3.1\RealCulator.pdb
+C:\Users\R\Desktop\HW C# -02\RealCulator\RealCulator\obj\Debug\netcoreapp3.1\RealCulator.genruntimeconfig.cache

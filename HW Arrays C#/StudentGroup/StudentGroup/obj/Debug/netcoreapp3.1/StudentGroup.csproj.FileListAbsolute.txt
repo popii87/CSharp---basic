@@ -1,0 +1,13 @@
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.exe
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.deps.json
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.runtimeconfig.json
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.runtimeconfig.dev.json
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.dll
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\bin\Debug\netcoreapp3.1\StudentGroup.pdb
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.csprojAssemblyReference.cache
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.AssemblyInfoInputs.cache
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.AssemblyInfo.cs
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.dll
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.pdb
+C:\Users\R\Desktop\Task 1\StudentGroup\StudentGroup\obj\Debug\netcoreapp3.1\StudentGroup.genruntimeconfig.cache

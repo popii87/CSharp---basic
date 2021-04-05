@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\R\\Desktop\\Task 1\\SumOfEven\\SumOfEven\\SumOfEven.csproj",
+      "projectUniqueName": "C:\\Users\\R\\Desktop\\C#Basic-repo\\HW Arrays C#\\SumOfEven\\SumOfEven\\SumOfEven.csproj",
       "projectName": "SumOfEven",
-      "projectPath": "C:\\Users\\R\\Desktop\\Task 1\\SumOfEven\\SumOfEven\\SumOfEven.csproj",
+      "projectPath": "C:\\Users\\R\\Desktop\\C#Basic-repo\\HW Arrays C#\\SumOfEven\\SumOfEven\\SumOfEven.csproj",
       "packagesPath": "C:\\Users\\R\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\R\\Desktop\\Task 1\\SumOfEven\\SumOfEven\\obj\\",
+      "outputPath": "C:\\Users\\R\\Desktop\\C#Basic-repo\\HW Arrays C#\\SumOfEven\\SumOfEven\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\R\\AppData\\Roaming\\NuGet\\NuGet.Config",

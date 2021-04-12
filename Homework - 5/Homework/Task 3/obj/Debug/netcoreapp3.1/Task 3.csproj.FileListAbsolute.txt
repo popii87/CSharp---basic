@@ -1,0 +1,13 @@
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\bin\Debug\netcoreapp3.1\Task 3.exe
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\bin\Debug\netcoreapp3.1\Task 3.deps.json
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\bin\Debug\netcoreapp3.1\Task 3.runtimeconfig.json
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\bin\Debug\netcoreapp3.1\Task 3.runtimeconfig.dev.json
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\bin\Debug\netcoreapp3.1\Task 3.dll
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\bin\Debug\netcoreapp3.1\Task 3.pdb
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\obj\Debug\netcoreapp3.1\Task 3.csprojAssemblyReference.cache
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\obj\Debug\netcoreapp3.1\Task 3.AssemblyInfoInputs.cache
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\obj\Debug\netcoreapp3.1\Task 3.AssemblyInfo.cs
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\obj\Debug\netcoreapp3.1\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\obj\Debug\netcoreapp3.1\Task 3.dll
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\obj\Debug\netcoreapp3.1\Task 3.pdb
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\Task 3\obj\Debug\netcoreapp3.1\Task 3.genruntimeconfig.cache

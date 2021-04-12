@@ -1,0 +1,13 @@
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\bin\Debug\netcoreapp3.1\HW Class 5.exe
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\bin\Debug\netcoreapp3.1\HW Class 5.deps.json
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\bin\Debug\netcoreapp3.1\HW Class 5.runtimeconfig.json
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\bin\Debug\netcoreapp3.1\HW Class 5.runtimeconfig.dev.json
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\bin\Debug\netcoreapp3.1\HW Class 5.dll
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\bin\Debug\netcoreapp3.1\HW Class 5.pdb
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\obj\Debug\netcoreapp3.1\HW Class 5.csprojAssemblyReference.cache
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\obj\Debug\netcoreapp3.1\HW Class 5.AssemblyInfoInputs.cache
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\obj\Debug\netcoreapp3.1\HW Class 5.AssemblyInfo.cs
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\obj\Debug\netcoreapp3.1\HW Class 5.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\obj\Debug\netcoreapp3.1\HW Class 5.dll
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\obj\Debug\netcoreapp3.1\HW Class 5.pdb
+C:\Users\R\Desktop\C#Basic-repo\Homework - 5\Homework\HW Class 5\obj\Debug\netcoreapp3.1\HW Class 5.genruntimeconfig.cache

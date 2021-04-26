@@ -1,0 +1,13 @@
+C:\Users\R\Desktop\HW07\HW07\HW07\bin\Debug\netcoreapp3.1\HW07.exe
+C:\Users\R\Desktop\HW07\HW07\HW07\bin\Debug\netcoreapp3.1\HW07.deps.json
+C:\Users\R\Desktop\HW07\HW07\HW07\bin\Debug\netcoreapp3.1\HW07.runtimeconfig.json
+C:\Users\R\Desktop\HW07\HW07\HW07\bin\Debug\netcoreapp3.1\HW07.runtimeconfig.dev.json
+C:\Users\R\Desktop\HW07\HW07\HW07\bin\Debug\netcoreapp3.1\HW07.dll
+C:\Users\R\Desktop\HW07\HW07\HW07\bin\Debug\netcoreapp3.1\HW07.pdb
+C:\Users\R\Desktop\HW07\HW07\HW07\obj\Debug\netcoreapp3.1\HW07.csprojAssemblyReference.cache
+C:\Users\R\Desktop\HW07\HW07\HW07\obj\Debug\netcoreapp3.1\HW07.AssemblyInfoInputs.cache
+C:\Users\R\Desktop\HW07\HW07\HW07\obj\Debug\netcoreapp3.1\HW07.AssemblyInfo.cs
+C:\Users\R\Desktop\HW07\HW07\HW07\obj\Debug\netcoreapp3.1\HW07.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\HW07\HW07\HW07\obj\Debug\netcoreapp3.1\HW07.dll
+C:\Users\R\Desktop\HW07\HW07\HW07\obj\Debug\netcoreapp3.1\HW07.pdb
+C:\Users\R\Desktop\HW07\HW07\HW07\obj\Debug\netcoreapp3.1\HW07.genruntimeconfig.cache
